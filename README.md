@@ -1,3 +1,8 @@
+## 🎮 Ejecución
+
+```bash
+python juego_final.py
+
 # 🐱 Gato vs Ratón con Minimax
 
 ## 🧠 Descripción
